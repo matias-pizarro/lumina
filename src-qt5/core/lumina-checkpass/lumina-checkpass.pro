@@ -12,7 +12,8 @@ LIBS     += -lpam
 
 SOURCES += main.c
 
-perms.path = $${L_BINDIR}
-perms.extra = "chmod 4555 $${L_BINDIR}/lumina-checkpass"
+#Try without the perms change for now
+#perms.path = $${L_BINDIR}
+#perms.extra = "chmod 4555 $${L_BINDIR}/lumina-checkpass"
 
 INSTALLS += target perms
