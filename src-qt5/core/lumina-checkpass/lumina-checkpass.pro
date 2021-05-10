@@ -6,13 +6,13 @@ QT =
 CONFIG += console
 
 TARGET = lumina-checkpass
-target.path = $$DESTDIR$${PREFIX}/sbin
+target.path = $${L_BINDIR}
 
 LIBS     += -lpam
 
 SOURCES += main.c
 
-perms.path = $$DESTDIR$${PREFIX}/sbin
-perms.extra = "chmod 4555 $$DESTDIR$${PREFIX}/sbin/lumina-checkpass"
+perms.path = $${L_BINDIR}
+perms.extra = "chmod 4555 $${L_BINDIR}/lumina-checkpass"
 
 INSTALLS += target perms
