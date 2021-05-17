@@ -131,7 +131,7 @@
     <message>
         <location filename="../LFileDialog.cpp" line="211"/>
         <source>[default] </source>
-        <translation type="unfinished"></translation>
+        <translation>[varsayılan] </translation>
     </message>
     <message>
         <location filename="../LFileDialog.cpp" line="278"/>
@@ -166,7 +166,7 @@
     <message>
         <location filename="../main.cpp" line="283"/>
         <source>Application entry is invalid: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Başvuru girişi geçersiz:%1</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="294"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../main.cpp" line="386"/>
         <source>Could not find &quot;%1&quot;. Please ensure it is installed first.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; bulunamadı. Lütfen önce kurulduğundan emin olun.</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="435"/>
@@ -207,69 +207,69 @@
 <context>
     <name>XDGDesktopList</name>
     <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="608"/>
-        <source>Multimedia</source>
-        <translation type="unfinished">Multimedya</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="609"/>
-        <source>Development</source>
-        <translation type="unfinished">Geliştirme</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="610"/>
-        <source>Education</source>
-        <translation type="unfinished">Eğitim</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="611"/>
-        <source>Games</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="612"/>
-        <source>Graphics</source>
-        <translation type="unfinished">Grafik</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="613"/>
-        <source>Network</source>
-        <translation type="unfinished">Ağ</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="614"/>
-        <source>Office</source>
-        <translation type="unfinished">Ofis</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="615"/>
-        <source>Science</source>
-        <translation type="unfinished">Bilim</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="616"/>
-        <source>Settings</source>
-        <translation type="unfinished">Ayarlar</translation>
-    </message>
-    <message>
-        <location filename="../../libLumina/LuminaXDG.cpp" line="617"/>
-        <source>System</source>
-        <translation type="unfinished">Sistem</translation>
-    </message>
-    <message>
         <location filename="../../libLumina/LuminaXDG.cpp" line="618"/>
-        <source>Utility</source>
-        <translation type="unfinished"></translation>
+        <source>Multimedia</source>
+        <translation>Multimedya</translation>
     </message>
     <message>
         <location filename="../../libLumina/LuminaXDG.cpp" line="619"/>
-        <source>Wine</source>
-        <translation type="unfinished"></translation>
+        <source>Development</source>
+        <translation>Geliştirme</translation>
     </message>
     <message>
         <location filename="../../libLumina/LuminaXDG.cpp" line="620"/>
+        <source>Education</source>
+        <translation>Eğitim</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="621"/>
+        <source>Games</source>
+        <translation>Oyunlar</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="622"/>
+        <source>Graphics</source>
+        <translation>Grafik</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="623"/>
+        <source>Network</source>
+        <translation>Ağ</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="624"/>
+        <source>Office</source>
+        <translation>Ofis</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="625"/>
+        <source>Science</source>
+        <translation>Bilim</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="626"/>
+        <source>Settings</source>
+        <translation>Ayarlar</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="627"/>
+        <source>System</source>
+        <translation>Sistem</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="628"/>
+        <source>Utility</source>
+        <translation>Araçlar</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="629"/>
+        <source>Wine</source>
+        <translation>Wine</translation>
+    </message>
+    <message>
+        <location filename="../../libLumina/LuminaXDG.cpp" line="630"/>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Diğer</translation>
     </message>
 </context>
 </TS>
